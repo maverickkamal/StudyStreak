@@ -1,0 +1,1 @@
+# StudyStreak - ESP32 based smart study timer. Hack Club Highways project.
