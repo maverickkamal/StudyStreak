@@ -69,7 +69,6 @@ class PomodoroTimer:
         self.remaining_time_seconds = self.break_duration_seconds
         self.start_time_ms = utime.ticks_ms()
         self.is_paused = False
-        
     def pause(self):
         """
         Pause the current session.
@@ -117,8 +116,12 @@ class PomodoroTimer:
         elapsed_ms = utime.ticks_diff(current_time_ms, self.start_time_ms)
         elapsed_seconds = elapsed_ms // 1000
         
+        # Only process if at least 1 second has elapsed
+        if elapsed_seconds == 0:
+            return
+        
         # Update remaining time
-        self.remaining_time_seconds = max(0, self.remaining_time_seconds - elapsed_seconds)
+        self.remaining_time_seconds -= elapsed_seconds
         
         # Update start time for next calculation
         self.start_time_ms = current_time_ms
@@ -137,8 +140,7 @@ class PomodoroTimer:
         Get the current timer state.
         
         Returns:
-            int: Current state (STATE_IDLE, STATE_WORK, or STATE_BREAK_SHORT)
-        """
+            int: Current state (STATE_IDLE, STATE_WORK, or STATE_BREAK_SHORT)        """
         return self.current_state
         
     def get_remaining_time_str(self):
@@ -148,14 +150,13 @@ class PomodoroTimer:
         Returns:
             str: Time in "MM:SS" format, minimum "00:00"
         """
-        # Ensure we don't show negative time
-        remaining = max(0, self.remaining_time_seconds)
+        # Ensure we don't show negative time and convert to integer
+        remaining = max(0, int(self.remaining_time_seconds))
         
         minutes = remaining // 60
         seconds = remaining % 60
         
         return f"{minutes:02d}:{seconds:02d}"
-        
     def get_remaining_seconds(self):
         """
         Get remaining time in seconds.
@@ -163,7 +164,7 @@ class PomodoroTimer:
         Returns:
             int: Remaining seconds (minimum 0)
         """
-        return max(0, self.remaining_time_seconds)
+        return max(0, int(self.remaining_time_seconds))
         
     def is_timer_paused(self):
         """
@@ -187,6 +188,25 @@ class PomodoroTimer:
             STATE_BREAK_SHORT: "BREAK"
         }
         return state_names.get(self.current_state, "UNKNOWN")
+        
+    def get_session_progress_percent(self):
+        """
+        Get current session progress as a percentage.
+        
+        Returns:
+            float: Progress percentage (0.0 to 100.0), or 0.0 if IDLE
+        """
+        if self.current_state == STATE_IDLE:
+            return 0.0
+        elif self.current_state == STATE_WORK:
+            total_duration = self.work_duration_seconds
+        elif self.current_state == STATE_BREAK_SHORT:
+            total_duration = self.break_duration_seconds
+        else:
+            return 0.0
+            
+        elapsed = total_duration - max(0, self.remaining_time_seconds)
+        return min(100.0, (elapsed / total_duration) * 100.0)
 
 # Example usage (commented out - for reference only)
 """
