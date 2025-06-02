@@ -36,3 +36,25 @@ A sneak peak hehe
 I will check if my plan needs change but for now see ya tmr
 
 spend 3hrs
+
+## June 02
+
+I started today with a block diagram of how I will connect my stuffs. I started sketching on my journal
+I then remember excalidraw and I immediately discard my journal to use it. I did some research initially, 
+and thanks to AI for clarifying things. I spent an hour and half making the block diagram. I ensure it's readable
+I spent extra 10 mins taking out useless aesthetics I add like colors. 
+
+![alt text](images/studystreak_sketch.png)
+
+I love this block diagram. it is pretty ngl. it wasn't easy stopping at this hehe
+After I tested my shitty code and as expected a bit buggy. I ran some test and confirm some issues with my logic and I made some fixes.
+I spent 2 hrs debugging as I added like 20 print statement just to get the exact error location. I did spent extra time cleaning the 
+print statement. I ran the last test and yay it's working from python's end :|
+Now I make the main orchestrator which is the main_controller.py
+it was easier to implement as mostly it is place holders and part of pomodoro logic. 
+I am cworking in parallel cuz I just made my BOM template on google doc. I cover some part as it was just rough hehe
+
+![alt text](images/bom1.png)
+
+spent 5hr 20mins
+
