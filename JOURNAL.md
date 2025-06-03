@@ -58,3 +58,13 @@ I am cworking in parallel cuz I just made my BOM template on google doc. I cover
 
 spent 5hr 20mins
 
+## June 03
+
+I did a lot of coding today as I spent time making some of the firmware. I made a handler for TCRT5000 Sensor Module tho no hardware integration yet. I spent sometime research how to work with the sensor to detect presence. I made a generic presence class.
+I improved pomodoro logic just added short break to the class. I made handler for the WS2812B RGB LED, SSD1306 OLED Display Module, and TTP223 Capacitive Touch Sensor Module just like tcrt5000 no hardware connection just a class ready to work with them. I had to do a lil bit of research just to make sure things work. it didn't work straight away lol. I faced some bugs that are stupidly easy but hard to find. I ran several test and some still failed so I am stopping here for today. I put them together in the main controller, and I added lots of print statement just for debugging. 
+
+![alt text](images/image-3.png)
+
+I am also gathering datasheet for my componenets to understand some stuffs about them. I think this is where everything will get hot. i gotta read them still. Not all but part of it. I will journal anything I find interesting here.
+
+spent 4hr 12mins
