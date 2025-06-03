@@ -174,18 +174,17 @@ class PomodoroTimer:
             bool: True if paused, False otherwise
         """
         return self.is_paused
-        
     def get_state_name(self):
         """
         Get human-readable state name.
         
         Returns:
-            str: State name ("IDLE", "WORK", "BREAK")
+            str: State name ("IDLE", "WORK", "BREAK_SHORT")
         """
         state_names = {
             STATE_IDLE: "IDLE",
             STATE_WORK: "WORK",
-            STATE_BREAK_SHORT: "BREAK"
+            STATE_BREAK_SHORT: "BREAK_SHORT"
         }
         return state_names.get(self.current_state, "UNKNOWN")
         
