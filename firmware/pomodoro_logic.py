@@ -174,7 +174,7 @@ class PomodoroTimer:
             bool: True if paused, False otherwise
         """
         return self.is_paused
-    def get_state_name(self):
+          def get_state_name(self):
         """
         Get human-readable state name.
         

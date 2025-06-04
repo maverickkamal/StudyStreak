@@ -171,9 +171,7 @@ class StudyStreakController:
                         self.oled_handler.show_notification("Auto-Resumed", "👤", duration=2.0)
                         
         except Exception as e:
-            print(f"Presence sensor error: {e}")    
-    
-    def update_display(self, current_state, time_str, progress_percent):
+            print(f"Presence sensor error: {e}")    def update_display(self, current_state, time_str, progress_percent):
         """
         Update the OLED display with current timer information.
         """
@@ -198,10 +196,9 @@ class StudyStreakController:
                 time_remaining_seconds, 
                 session_count
             )
+            
         except Exception as e:
-            print(f"Display update error: {e}")
-    
-    def update_led_indicator(self, current_state):
+            print(f"Display update error: {e}")def update_led_indicator(self, current_state):
         """
         Update RGB LED color and effects based on current Pomodoro state.
         """
