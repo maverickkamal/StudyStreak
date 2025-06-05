@@ -143,3 +143,6 @@ Uhmmm I gotta sleep guys
 
 ![alt text](images/call.png)
 
+I updated my BOM after going through all the datasheet. I got some price range and I find out the best place to get everything is Aliexpress. Amazon too expensive and local sellers too are expensive. They also don't accept HCB; hence, I gotta stick to aliexpress. I didn't do much today. 
+
+spent 1hr 23 mins
