@@ -136,3 +136,10 @@ The operating voltage I'll use is 3.3v even tho it ranges from 3.3V to 5V. The o
 phew a marathon today.
 
 spent 7hrs (estimated)
+
+## June 05
+
+Uhmmm I gotta sleep guys 
+
+![alt text](images/call.png)
+
