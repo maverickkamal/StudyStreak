@@ -146,3 +146,8 @@ Uhmmm I gotta sleep guys
 I updated my BOM after going through all the datasheet. I got some price range and I find out the best place to get everything is Aliexpress. Amazon too expensive and local sellers too are expensive. They also don't accept HCB; hence, I gotta stick to aliexpress. I didn't do much today. 
 
 spent 1hr 23 mins
+
+## June 07
+
+Yesterday was a special holidays so I took the day off. I started today by exploring PCB schematics. Make no mistake I am new to this but I can get stuff really fast. I will be using EasyEDA for now. I exploed it (more of playing around with it). I went on youtube to check for videos on basics, but I ended up scrolling through reels until I forgot what brought me there and left. I went to get groceries then my chaotic mind remembered I was supposed to learn PCB basics on yt. Damn!!
+I made some firmware updates which I find esier than going to Yt to learn pcb. I'll give it a shot tomorrow, hopefully
