@@ -151,3 +151,27 @@ spent 1hr 23 mins
 
 Yesterday was a special holidays so I took the day off. I started today by exploring PCB schematics. Make no mistake I am new to this but I can get stuff really fast. I will be using EasyEDA for now. I exploed it (more of playing around with it). I went on youtube to check for videos on basics, but I ended up scrolling through reels until I forgot what brought me there and left. I went to get groceries then my chaotic mind remembered I was supposed to learn PCB basics on yt. Damn!!
 I made some firmware updates which I find esier than going to Yt to learn pcb. I'll give it a shot tomorrow, hopefully
+
+spent 2hr 52 mins
+
+## June 08
+
+I started using Easy EDA. It has this weird interface (not as weird as adobe illustrator). I know nothing about it, and I supposed to check tutorial. I wasn't wired to start with tutorial tbh. I just have to break somethings to get a tutorial. I mess around with the drawing tools and the wire tools. for some reasons some of this tools drawings dissappear when changed. It feels like figma and illustrator.
+
+![alt text](images/pacman.png)
+
+well enough with that. I started going through the documentation and it was boring enough I slept there. kidding didn't sleep just skipped. I searched some videos on youtube and save them for later. I promise to make my schematic today
+
+spent 1hr 12 mins
+
+
+## June 09 
+
+I promised my self yesterday that i will be making my schematics today. I set off by going through a 41 mins video on using easy eda. I watched up to 23 mins and stopped (yup I barely finish a yt video). I feel itch to start something instead of just watching. I now understood tools and how to search for componenets. I went back to my jottings on from my data sheet and I went back to my datasheet. I did that because my jotting wasn't that useful. I started with the ESP32-DEVKITC which is the brain and connects to everything. I then get the remaing 4 components. I wasn't able to get the module for TTP223 and TCRT5000. I used a generic 3 pin headers and changed their label to my corresponding components adhering to the datasheet
+oh it wasn't smooth. I hit a roadblock when finding the "right" module. I have to look closely at the datasheets and the web. I was running mad when I couldn't find the modules for TTP223 and TCRT5000. A web result I found mentioned I could use generic headers and stuff, lucky me. Anyways after everything, I made my first schematics and I am more than happy tbh
+
+![alt text](images/schematics.png)
+
+here take a look. it looks amazing to me.
+
+spent 6hrs 2mins
