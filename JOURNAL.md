@@ -175,3 +175,18 @@ oh it wasn't smooth. I hit a roadblock when finding the "right" module. I have t
 here take a look. it looks amazing to me.
 
 spent 6hrs 2mins
+
+
+## June 10
+
+I continue working on the my schematics making some fixes and additions of resistors and capacitor.
+I added a resistor of 330 ohms in between WS2812B DI and ESP32 IO4 to protect it from any unexpected voltage spikes from the ESP32. I learn this tip in the on reddit. I have no idea or plans to add them there. I added a capacitor to WS2812B LED to smooth any current spikes the LED will demand. I added 100uF. I find out the LED turns on and switch to a bright light, it draws a sudden spike in current which might make the ESP32 to reset. A friend (friend of a friend lol) told me to add 12C pull up resistors(OLED). I had to research it and finally added two resistors between SCL and 3.3V (with VCC) and sme with SDA. 
+I did an ERC and alot of pins not connected tho I find out it was fine. 
+here is the screenshot
+
+![alt text](images/schematics_updated.png)
+
+see you tmr
+
+spent 2hrs 3mins
+
