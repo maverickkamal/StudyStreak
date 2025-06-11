@@ -190,3 +190,30 @@ see you tmr
 
 spent 2hrs 3mins
 
+## June 11
+
+I started drafting or lemme say I was sketching. I sketched what I believe will be the the case of my project. I started with a research of how OLED are normally placed on a case and I find the angled one more sleek and stylish. So i took inspiration from them. I use excalidraw to sketch. At first, Idk wahat I was doing and I was making things that are strange. I couldn't use the pen tool. I had to check youtube for tips and tricks to use excali draw. It was powerful base on what I saw about it. I used it before but just basic stuffs. I saw a video on how to manipulate lines, and this is when everythin clicked (no breakthrough yet). I drew some slines and curve it with no real destination. I had to go to gemini and ask for help in brainstorming something original. It asked me to answer a few questions about how I imagine it to be. I should view it as if it was on my desk. I imagined a mouse tbh. I told it what I imagine so It says make it original. I feel it should look like a mouse tho smaller. 
+
+![alt text](images/st_sketch.png)
+
+this was my first sketch (not kidding) I was obsessed so I tried to make it better. I made something a bit worse but it gave me an idea. Add and substract
+it is a figma thing. I wasn't good at figma, but at least I am not that bad at it's concept. I started experimenting with shapes. Excalidraw lacks the tool and lots of shape. it was limited. 
+
+![alt text](images/nd_sketch.png)
+
+I remembered the library tool. I used it to get more shapes to use. I saw semi circles, curved lines and other shaped and that is where I made breakthrough. I channeled my shitty figma skilled, and it was rewarding hehe. enough of this yapping lemme share it.
+
+![alt text](images/sketch.png)
+
+here is everything together. Lemme share the views too.
+
+![alt text](images/sketch-1.png)
+
+Here it is. It is not perfect and I don't expect it to be. ty
+
+![alt text](images/sketch-2.png)
+
+light mode
+
+spent 4hrs 
+
