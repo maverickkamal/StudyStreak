@@ -217,3 +217,55 @@ light mode
 
 spent 4hrs 
 
+## June 12
+
+I will confess
+I forgot to make GND connections 😭😭. I thought I was done. I started working on the PCB. 
+Man I was confused ngl. The pcb outline was initally small. my 70mm by 50mm was wrong. I chose rounded rectangle which successfully gave me headaches. I then change to rectangle by remaking the pcb. so it was a mess I was putting them in the outline but those connections made me think I was doing things wrong. I remember I have a deadline so I'll check youtube tomorrow to confirm if I m doing things right.
+
+![alt text](images/pcb_mess.png)
+
+hehe, I made this.
+
+spent 2hrs
+
+## June 13
+
+I finally found a youtube video on how to do. I quietly followed it step by step. I referred to my sketch to make sure I am putting things right.
+The issue is my resistor is big like too big. see my day 13. I know resistors are small but wth is wrong with mine. I made small google search about it. I saw that it was related to footprint and I find out through a thread that using R0805 is more than enough. I then went to change it but that part is not editable like I was fused. I was learning a lot of info simultaneously eh?
+I then play around for some minutes then I went back to my schematic design and check it again. aha! It was editable and I search for R0805 and finally saw it. I do it for my 3 resistors. It was so satisfying when I uopdate my pcb and findout it worked. now we have issue with the outline again. LUCKY for me I can make custom outline since the one I have is too big. I then draw stuff like diagonal around it. too much winning today ahahaha 
+
+![alt text](images/satusfying_pcb.png)
+
+hey did I tell you how satisfying was it to see the 3d version? it feels good more than milkshakes (strawberry always the GOAT)
+I will starve y'all the image of the 3d one until I am done with routing tomorrow.
+
+spent 2hrs
+
+## June 14 
+
+Cousin birthday 
+
+## June 15
+
+I took yesterday off, it was my cousin's bday. I started with routing today. it was the first thing I thonk of. I well used the auto route. I don't have much time to waste anymore. I clicked auto route and voila it made it perfectly. I then move to copper pour. I set my Nets to GND and then made the outline for copper pour both for the top layer and bottom layer. I clicked rebuild and boom!! it worked
+Nein!!!!!!!!!!!!!! don't  be silly, it didn't work and it's wasn't straight forward. Infact I fundamentally messed up. I was losing brain cells for nothing. it was GND like it wasn't connected to the Netflag GND. phew, I did it 
+my copper pour now rebuilds and worked. remember it have to be always the schematics hehehe
+I reposition labels and any generic stuffs not to obstruct the copperlines. I added labels for generic 3 point components I used for TCRT5000 and TTP223 so I did that to avoid confusion when putting things together. things have been straight forward so far.
+I did add my labels and I will share screenshot now
+
+![alt text](images/pcb.png)
+
+it was sooooooooooooo satsfying and my obsession is maxed. 
+Oh lemme share the 3d. I bet you will love the view lmao
+
+![alt text](images/pcb_3d.png)
+
+here is the back for no reason
+
+![alt text](images/pcb_3d_back.png)
+
+so I will be moving straight to CAD tomorrow. see ya
+
+spent 4hrs approximately
+
