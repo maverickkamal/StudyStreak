@@ -3,7 +3,7 @@ title: "StudyStreak"
 author: "Maverick"
 description: "A desk device for healthier study habits using ESP32, presence sensing, and an OLED display."
 created_at: "2025-05-31"
-total_time_spent: "74 hours 22 minutes"
+total_time_spent: "71 hours 30 minutes"
 ---
 
 ## May 31
