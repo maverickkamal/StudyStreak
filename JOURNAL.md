@@ -344,3 +344,45 @@ I quickly sart a blank project once again now I was thinking of hexagon. I tried
 
 spent 5hrs 42mins
 
+## June 29
+
+Today, I woke up sharp and free. I was determined to finish tomorrow. So, I started with a solid cube after an AI suggest starting with substraction and add other stuff along the way. I made a solid cube then I slant it. to have wedge. I cut it then I shell it it to have the hollow indie part. I finally made progress lol. I added a 5 side semi polygon and joined it to the wedge to have full shape of what I imagined. I made it the bottom shell. I used lots of sketch, a lot of extrude. I shell everything once again by deleting the previous shell. I then added holes for my OLED, LED diffuser, sensor and USB c .I did face issues like cutting too much or out but with time I gradually understood the process. Adding the USB C needs a more specific location identification. I have to chech my PCB. I get it and made the cut tho had change to multiple plane. I started the top cover or cap component by constructing new planes. I made it using project and then extrude it. I also made lip for the bottom shell and top cover to hold it. I realized I already spent 4 hrs so I stopeed. here is some sketch
+
+![alt text](images/studystreak-1.png)
+
+![alt text](images/studystreak-2.png)
+
+spent 4hrs 22mins
+
+## June 30
+
+I was determined to finish today and my todo was 
+- To make the bottom cover
+- To add standoffs for my PCB 
+- To add a hole on the bottom cover
+- To make final touches like pattern, name and label
+
+I kickoff with the bottom cover. it was easy to make since we ruled out the curves. I made it and extrude down a bit. I then decide to go for the standoffs. now I need to be precise and check iwhere exactly my PCB has holes. uhmmmm............It doesn't have any hole omg 😭😭😭. I decide to quickly edit it and add the holes using the hole tool. I then take their exact locations and added the 4 round shapes in my bottom shell. I then extrude it in 2 groups given their different distancedue to the slant. I extrude them perfectly and ensured it doesn't come out or fully touches the bottom shel wall. 
+
+![alt text](images/standoffs.png)
+
+now I hade the holes left which I project and extrude to cut them. it all felt like magic lol. I added the lip once again between the bottom shell and bottom cover. Adding the text and embossing is relatively easy and straightforward. the pattern I intended for the bottom cover was the thing that cost me an hour to grasp. 
+
+![alt text](images/patterns.png)
+
+i made a buatiful pattern for the top and bottom of the bottom cover. it was really nice. now all my components are ready. I gotta add some appearance and it is done.
+I added gloosy yellow (bottom cover), matte blue (bottom shell), glossy blue and red (top cover). with this think that is the end of my design journey
+
+Here are images for the final CAD
+
+![alt text](images/studystreak-3.png) 
+
+![alt text](images/studystreak-4.png) 
+
+![alt text](images/studystreak-5.png) 
+
+![alt text](images/studystreak-6.png)
+
+spent 6hrs 13mins
+
+## Thank you Highways <3
