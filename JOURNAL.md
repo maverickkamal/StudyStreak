@@ -310,3 +310,37 @@ That was the first tutorial. I went for the second part of the tutorial. It was 
 
 spent 2hrs 33mins
 
+## June 27
+
+I started the part 3 of the tutorial series, and today we're making a shelf. wooden shelf. The tutorial is all about using parameters or variables. It allows one to easily change the parameters of any object. we started the same parttern
+Sketch -> Extrude -> Move/Copy -> Edit sketch > Extrude once again hehe
+I learn about rectangular pattern too yay. it was the coolest thing so far. I imagine a lot on how I could use it for my project. 
+I also gave it a wooden appearance. Here is some screenshots
+
+![alt text](images/side_shelf.png)
+
+![alt text](images/front_shelf.png)
+
+Now the kicker is making something mine. So, I started by refrencing my beautiful curvy sketch so time to make it real...eh?
+I had an idea. make a curve triangle. I started sketching and the worst part I made it on the bottom plane anyways. It was my first major challenge on Autodesk fusion 360. Here is the jargon I made
+
+![alt text](images/first_jargon.png)
+
+spent 2hrs 17mins
+
+## June 28
+
+I am done with the tutorial on what I need to know to work with fusion 360. The issue is getting my sketch into 3d. I started working on it but I couldn't get any tool to make the curve. or know what plane is suitable. I made sostarting with the sides which is a semi circle. I successfully made the it and even mirror it using the mirror tool along a specified distance or path. I was proud of that but now how to make the top slant and curvy? another challenge that I wasted my time on. I couldn't find anything easier to follow like nothing. I even tried searching for mouse and everyone is saying get a reference but how the hell will I get a reference when all I have is a sketch or rough one in fact? I was frustrated ngl. btw here is what I have
+
+![alt text](images/second_jargon.png)
+
+At some point, I gave up on the curves. I asked AI if I could do anything and it says making organic curves is tricky and advance. my june 30th window is closing and it says I could try using lines instead of curves. So I started sketching and imagining how it will look. I spent couple of minutes sketching on my jotter. here
+
+![alt text](images/sketch-3.png)
+
+I quickly sart a blank project once again now I was thinking of hexagon. I tried making the sides hexagon and followed same step for the first one I did but bro I can't make the top or front. my lines were unaligned and I was just tired. Here is what I made. I have just two days to finish all of this 
+
+![alt text](images/third_jargon.png)
+
+spent 5hrs 42mins
+
