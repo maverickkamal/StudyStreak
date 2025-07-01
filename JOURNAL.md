@@ -269,3 +269,26 @@ so I will be moving straight to CAD tomorrow. see ya
 
 spent 4hrs approximately
 
+## June 16, 17, 18, 19, 20, 21, 22, 23
+
+I was away, I couldn't work on the project given a school project and test we were doing. I had to take time off for the sake of mental health. I am juggling a lot of stuffs and I had to drop some and focus on urgent and very important task. I do learn a bit about CAD. I want to bring my sketch to life. I downloaded fusion 360 for students. I got the license through my brother's college email lol.
+I downloaded and install it. I followed each instruction and I was good to go. I mean I got other things to beep beep......
+
+## June 24
+
+Phew things have ease out but not over tho gotta finish my 3d model by June 30. I started the day by searching tutorial on youtube like any other noob to be nerd. I found couple of videos on youtube and tbh I see ones encouraging and discouraging learning CAD with fusion 360. Uhmmmm, I was kinda confused rn............kidding I wasn't as I already know what I want. I just look for most recent and most watched video on fusion 360 tutorial. I first watch everything then save it. I then look for others and save them for working with the next. I am chunking the process to accomodate other tasks. see ya
+
+spent 1hr 23mins
+
+## June 25
+
+Today, was the day to start working with FUSION 360. I started with the most rounded tutorial. It was easy to follow and kinda verbose. 
+We are gonna make a rack. A wooden rack to be precise. The cool thing about all this is the environment. The 3d environment is awesome. I failed to follow the tutorial at first. I go with my gut. I play around with the sketch thing and extrude thing. I break and make things. I would have shown you but unfortunately I couldn't save them 😭😭. My Autodesk wasn't fully setup or internet issues.Idk the issue. My windows crash :< *panic*
+Oh it wasn't a crash. it was updating after so many months without update. I lost work sed. I just got this page and it staged like this for 2mins after the update. 
+
+![alt text](images/fusion_crashed.png)
+
+Oh, I forgot my tutorial lol. I will do it tomorrow. I gotta finish my assigment
+
+spent 1hr 56 mins
+
