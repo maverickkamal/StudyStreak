@@ -292,3 +292,21 @@ Oh, I forgot my tutorial lol. I will do it tomorrow. I gotta finish my assigment
 
 spent 1hr 56 mins
 
+## June 26
+
+No yapping today. I went straight to following the tutorial. Isaid rack before right? it is a toolbox. wooden tool box. I worked with a
+tool called fillet for the first time yay. you just can't move anything with your cursor you gotta need the move and copy tool. It was not a common UX for me. I used Adobe, Figma, Canva etc and you just move them. The amazing thing is definitely the planes if new to 3d.
+the workflow was 
+Sketch -> Extrude -> Move/Copy -> Edit sketch > Extrude once again
+After all we add a skin or lets say appearance. I chose mahogany wood. 
+
+![alt text](images/toolbox.png)
+
+That was the first tutorial. I went for the second part of the tutorial. It was about planning and drawing. I have no apetite to skip any part of the tutorial. I dived in. it shows stuffs related to how one could draw different faces like 2d version on a drawng sheet automatically from the 3d. it wasn't manual juust use couple tools to get your faces on the paper. Here is what I made
+
+![alt text](images/first_p_drawing.png)
+
+![alt text](images/first_p2_drawing.png)
+
+spent 2hrs 33mins
+
