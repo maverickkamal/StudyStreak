@@ -387,3 +387,11 @@ Here are images for the final CAD
 spent 6hrs 13mins
 
 ## Thank you Highways <3
+
+## Corrections
+I received a review 2nd of july about my project. It was about my README.md, BOM and standoff mainly for OLED.
+my README.md was AI generate and I acknowledged that so I was asked to write it myself which I did so
+I update my BOM to include the links and also remove the category of Passives. Also it wasn't AI generated. 
+I also fixed my 3d model to have a standoff for OLED which I researved a screw for. 
+Unfortunately, I can't attend Undercity because I have other commitments at home this summer. I wish y'all the best :)
+ty 
