@@ -11,6 +11,8 @@ StudyStreak is a desk device that kinda tracks your presence intelligently espec
 ### Why I Made This
 
 As a student, I hate long hours study sessions. Sometimes it is necessary so I ended up burnout and strained due to to long, uninterrupted study sessions. So, I wanted to create a physical tool not replace alarm or another burden like wearable but a tool that could encourage heathier habits without kinda adding to the ditractions from phones and PC. So StudyStreak is my solution: a simple, dedicated device to help maintain focus and well-being during intense work periods.
+
+
 -----
 
 ## Pictures of the Project
